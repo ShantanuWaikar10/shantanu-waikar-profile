@@ -1,70 +1,38 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Shantanu Waikar - Portfolio
 
-## Available Scripts
+Welcome to my portfolio website! This platform showcases my journey, projects, and skills in web development and design. It is built with **React.js** and deployed on **Vercel**.
 
-In the project directory, you can run:
+🌐 **Live Site**: [Shantanu Waikar Portfolio](https://shantanu-waikar-portfolio.vercel.app/)
 
-### `npm start`
+## 🚀 Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Library**: React.js
+- **Styling**: CSS Modules
+- **Hosting**: Vercel
+- **Version Control**: Git & GitHub
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📄 Features
 
-### `npm test`
+### 🏠 Home Page
+- **Overview**: The home page provides a quick snapshot of who I am and what I do. It contains my tagline, a brief introduction, and easy access to other sections of the site.
+- **Navigation Bar**: Found at the top of every page, this lets you quickly move between the different sections of the portfolio: Home, About, Experience, and Contact.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 👤 About Me
+- **Details**: This section dives deeper into my background, skills, and what I bring to the table as a developer. Here, you'll find a personal introduction and my technical stack.
 
-### `npm run build`
+### 💼 Projects
+- **Showcase**: A list of my key projects with descriptions, technologies used, and links to live demos and GitHub repositories. This section helps visitors see my practical skills in action.
+- **Project Cards**: Each project is displayed with an project image, project name, and links for more details, including source code or live demos.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 📧 Contact
+- **Form**: Visitors can use the contact form to send me a message directly.
+- **Social Links**: Links to my professional profiles on platforms like GitHub and LinkedIn.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## ✨ Additional Features
 
-### `npm run eject`
+- **Responsive Design**: The site is optimized for both desktop and mobile viewing, ensuring a smooth experience on any device.
+- **Fast Performance**: Built with Next.js for server-side rendering, which boosts the performance of each page load.
+- **SEO Optimization**: Meta tags and structured data are implemented to improve discoverability on search engines.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
