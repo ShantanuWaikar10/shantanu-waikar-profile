@@ -61,13 +61,13 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG3} alt="" />
           </div>
-          <h3>Portfolio Website</h3>
+          <h3>e-Commerce App</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com" className="btn">
+            <a href="https://github.com/ShantanuWaikar10/mern-ecommerce-3" className="btn">
               Github
             </a>
             <a
-              href="https://github.com"
+              href="https://e-commerce-by-shantanu.vercel.app/"
               className="btn btn-primary"
               target="_blank"
             >
