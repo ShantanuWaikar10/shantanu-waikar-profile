@@ -33,6 +33,6 @@ Welcome to my portfolio website! This platform showcases my journey, projects, a
 ## ✨ Additional Features
 
 - **Responsive Design**: The site is optimized for both desktop and mobile viewing, ensuring a smooth experience on any device.
-- **Fast Performance**: Built with Next.js for server-side rendering, which boosts the performance of each page load.
+- **Fast Performance**: Built with React.js for client-side rendering, which boosts the performance of each page load.
 - **SEO Optimization**: Meta tags and structured data are implemented to improve discoverability on search engines.
 
