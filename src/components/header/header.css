@@ -52,6 +52,12 @@ header {
   left: calc(50% - 14rem);
   margin-top: 12rem;
   border-radius: 1rem;
+  transition: var(--transition);
+}
+
+.banner:hover {
+  transform: translate(-2.1rem, -2ex);
+  
 }
 
 .scroll__down {
